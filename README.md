@@ -2,7 +2,7 @@ ChatClient and ChatServer
 ====================================
 
 ChatClient and Server is a server/ client implementation in C#.
-The executable was written and tested in .Net 4.8.
+The executable was written and tested in .Net 5.0.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/mdx09c7fnf2rnstg?svg=true)](https://ci.appveyor.com/project/SeppPenner/chatnew)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/ChatNew.svg)](https://github.com/SeppPenner/ChatNew/issues)
@@ -14,6 +14,4 @@ The executable was written and tested in .Net 4.8.
 Change history
 --------------
 
-* **Version 1.0.1.0 (2019-10-13)** : Updated nuget packages, added GitVersionTask.
-* **Version 1.0.0.1 (2019-05-07)** : Updated .Net version to 4.8.
-* **Version 1.0.0.0 (2017-03-11)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/ChatNew/blob/master/Changelog.md).
